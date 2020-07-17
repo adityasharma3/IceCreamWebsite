@@ -5,14 +5,13 @@ def index(request):
     context = {
         'variable' : 'this is sent'
     }
-    return render(request , 'index.htm' , context)
+    return render(request , 'index.html')
 
 def about(request):
-    return HttpResponse("about page")
+    return render(request , 'about.html')
 
 def services(request):
-    return HttpResponse("services page")
+    return render(request ,'services.html')
 
 def contact(request):
-    return HttpResponse("contact page")
-    
+    return render(request , 'contact.html')
