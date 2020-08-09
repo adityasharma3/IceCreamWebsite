@@ -1,3 +1,4 @@
+
 ## Ice Cream Website
 
 A simple website for an ice cream shop built using django
@@ -16,3 +17,6 @@ To run the website
     python manage.py runserver
 
 ```
+=======
+
+
