@@ -1,2 +1,22 @@
 
-A simple ice cream website that allows users to buy their favourite ice creams and leave feedback , built using django.
+## Ice Cream Website
+
+A simple website for an ice cream shop built using django
+
+to clone the project,
+
+```bash
+
+    git clone https://github.com/adityasharma3/IceCreamWebsite.git
+
+```
+To run the website
+
+```python
+
+    python manage.py runserver
+
+```
+=======
+
+
