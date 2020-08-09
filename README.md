@@ -17,6 +17,6 @@ To run the website
     python manage.py runserver
 
 ```
-=======
+
 
 
